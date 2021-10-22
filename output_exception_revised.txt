@@ -1,0 +1,7 @@
+
+testInterestUpdateInvalidDataException=true
+testCreateInterestsInvalidDataException=true
+testDeleteInterestInterestNotFoundException=true
+testUpdateUserInvalidDataException=true
+testDeleteUserNotFoundException=true
+testRegisterUserInvalidDataException=true
